@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="130px" viewBox="0 0 320 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="270" height="80" rx="15"></rect>
+        <filter x="-15.7%" y="-40.6%" width="131.5%" height="206.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Disha-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-3" transform="translate(-7.000000, -816.000000)">
+            <g id="Group-3-Copy" transform="translate(32.000000, 831.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0" y="0" width="270" height="80" rx="15"></rect>
+                </g>
+                <g id="link" transform="translate(128.000000, 29.000000)" stroke="#000000" stroke-width="1.875">
+                    <path d="M9.2,12.65 C10.1992988,13.9859469 11.7295714,14.8220055 13.3936473,14.9411833 C15.0577233,15.0603612 16.6915207,14.450907 17.871,13.271 L21.321,9.821 C23.5000902,7.5648214 23.4689261,3.97851253 21.2509568,1.76054319 C19.0329875,-0.45742615 15.4466786,-0.488590205 13.1905,1.6905 L11.2125,3.657" id="Path"></path>
+                    <path d="M13.8,10.35 C12.8007012,9.01405314 11.2704286,8.17799451 9.60635265,8.05881666 C7.94227671,7.9396388 6.30847933,8.54909296 5.129,9.729 L1.679,13.179 C-0.500090205,15.4351786 -0.46892615,19.0214875 1.74904319,21.2394568 C3.96701253,23.4574261 7.5533214,23.4885902 9.8095,21.3095 L11.776,19.343" id="Path"></path>
+                </g>
+                <g id="edit-2" transform="translate(42.000000, 29.000000)" stroke="#000000" stroke-width="1.875">
+                    <polygon id="Path" points="16.25 0 22.5 6.25 6.25 22.5 0 22.5 0 16.25"></polygon>
+                </g>
+                <g id="layout-2" transform="translate(216.000000, 29.000000)" stroke="#000000" stroke-width="1.875">
+                    <rect id="Rectangle" x="0" y="0" width="22.5" height="22.5" rx="2.5"></rect>
+                    <path d="M0,7.5 L22.5,7.5 M15,22.5 L15,7.5" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
